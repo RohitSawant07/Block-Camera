@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Block Camera</string>
+    <string name="admin_receiver_status_disable_warning">MC BC</string>
+    <string name="device_admin_description">Description</string>
+</resources>
